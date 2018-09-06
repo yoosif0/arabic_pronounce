@@ -11,4 +11,7 @@ from arabic_pronounce import phonetise
 
 phonetise("كلمةٌ")
 >>> ['k l m t u1 n']
+```
 
+## Test
+python -m pytest
