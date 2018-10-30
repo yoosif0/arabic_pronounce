@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='arabic_pronounce',
-    version="0.2.4",
+    version="0.2.5",
     description='Pronounce Arabic words on the fly',
     long_description=readme(),
     long_description_content_type='text/markdown',
